@@ -2,8 +2,8 @@
 
 
 - 👩‍🎓 Aluna de graduação em Sistemas de Informação
-- 🌱 Em crescimento para me tornar dev web front-end
-- ⚡ Estagiária e bolsista
+- 🌱 Desenvolvedora front-end iniciante
+- ⚡ Estagiária
 - 💕 Meus pronomes são ela/dela
 
 <div align="center">

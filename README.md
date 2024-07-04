@@ -1,9 +1,9 @@
 ### ei, tudo certo? 🤙
 
 
-- 👩‍🎓 Aluna de graduação em Sistemas de Informação
 - 🌱 Desenvolvedora front-end iniciante
-- ⚡ Estagiária
+- ⚡ Analista front-end jr I
+- 👩‍🎓 Graduada em Bacharelado em Sistemas de Informação
 - 💕 Meus pronomes são ela/dela
 
 <div align="center">

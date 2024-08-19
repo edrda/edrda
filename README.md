@@ -1,10 +1,10 @@
 ### ei, tudo certo? 🤙
 
 
-- 🌱 Desenvolvedora front-end iniciante
-- ⚡ Analista front-end jr I
+- ⚡ Me chamo Eduarda, tenho 26 anos e sou Desenvolvedora front-end
+- 💼 Analista front-end jr I
 - 👩‍🎓 Graduada em Bacharelado em Sistemas de Informação
-- 💕 Meus pronomes são ela/dela
+- 🧩 Meus pronomes são ela/dela
 
 <div align="center">
   <a href="https://github.com/edrda">

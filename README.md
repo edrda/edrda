@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">my name's Eduarda, i'm 26 and i am from brazil<br><br>- 💼 I’m working as front-end developer jr<br>- ⚡ i've been practicing Reactjs using Typescript<br> - 📱 i've also been working with Svelte<br>-- 🛹 In my free time I like to skate<br>- ✒️ I also like UX/UI design<br>- 🧩 my pronouns are she/her</p>
+<p align="left">my name's Eduarda, i'm 26 and i am from brazil<br><br>- 💼 I’m working as front-end developer jr<br>- ⚡ i've been practicing Reactjs using Typescript<br> - 📱 i've also been working with Svelte<br>- 🛹 In my free time I like to skate<br>- ✒️ I also like UX/UI design<br>- 🧩 my pronouns are she/her</p>
 
 ###
 

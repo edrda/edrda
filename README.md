@@ -16,8 +16,8 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/eduarda-lourenco/" target="_blank" style="text-decoration:none!important;text-underline-offset: 0;text-decoration-color: #ffffff00;">
+<div align="left">
+  <a href="https://www.linkedin.com/in/eduarda-lourenco/" target="_blank" style="text-decoration-color: #ffffff00;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:edrda.dev@gmail.com" target="_blank">
@@ -27,11 +27,17 @@
 
 ###
 
+<div align="center">
+  <img height="380" src="https://i.pinimg.com/originals/24/8e/47/248e47a848da59d73bd1b58b34b65a7c.gif"  />
+</div>
+
+###
+
 <h3 align="center">🛠 Language and tools</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />

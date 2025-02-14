@@ -1,4 +1,4 @@
-<h1 align="center">oioi 🤙</h1>
+<h1 align="center">eduarda - frontend dev 🤙</h1>
 
 ###
 
@@ -17,7 +17,7 @@
 ###
 
 <div align="center">
-  <a href="linkedin.com/in/eduarda-lourenco/" target="_blank">
+  <a href="https://www.linkedin.com/in/eduarda-lourenco/" target="_blank" style="text-decoration:none!important;text-underline-offset: 0;text-decoration-color: #ffffff00;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:edrda.dev@gmail.com" target="_blank">
@@ -27,7 +27,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
@@ -59,7 +59,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats:</h3>
+<h3 align="center">🔥   My Stats:</h3>
 
 ###
 

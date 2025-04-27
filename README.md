@@ -21,7 +21,7 @@
 
 ###
 
-<img align="right" height="300" src="https://assets.promptbase.com/DALLE_IMAGES%2FqjswTly90VT14YruHimAEmGif2P2%2Fresized%2F1719347180269d_w_800x800.webp?alt=media&token=c82391dd-0e5a-48b6-b918-5447c34b992f"  />
+<img align="right" height="280" src="https://assets.promptbase.com/DALLE_IMAGES%2FqjswTly90VT14YruHimAEmGif2P2%2Fresized%2F1719347180269d_w_800x800.webp?alt=media&token=c82391dd-0e5a-48b6-b918-5447c34b992f"  />
 
 ###
 
@@ -58,6 +58,7 @@
 ###
 
 <br clear="both">
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=edrda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -66,11 +67,12 @@
 </div>
 
 ###
-
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edrda/edrda/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edrda/edrda/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/edrda/edrda/output/pacman-contribution-graph.svg">
 </picture>
+-->
 
 ###

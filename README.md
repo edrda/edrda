@@ -1,4 +1,8 @@
-<h1 align="center">eduarda - frontend dev 🤙</h1>
+<img align="center" height="180" src="/header-img.png"  />
+
+<h2 align="left">fique à vontade 🤙</h1>
+
+
 
 ###
 

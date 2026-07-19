@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">my name's Eduarda, i'm 27 and i'm from Brazil<br><br>- 💼 i've been working as a front-end developer for 3+ years<br>- ⚡ i've been practicing frameworks as Vuejs and Reactjs using Typescript<br>- 📱 i've also been working with Svelte<br>- ✒️ i'm an aspiring ui designer, i love creating new interfaces<br>- 🛹 in my free time, i like to skate<br>- 🧩 my pronouns are she/her</p>
+<p align="left">my name's Eduarda, i'm 28 and i'm from Brazil<br><br>- 💼 i've been working as a front-end developer for 3+ years<br>- ⚡ i've been practicing frameworks as Vuejs and Reactjs using Typescript<br>- 📱 i've also been working with Svelte<br>- ✒️ i'm an aspiring ui designer, i love creating new interfaces<br>- 🛹 in my free time, i like to skate<br>- 🧩 my pronouns are she/her</p>
 
 ###
 

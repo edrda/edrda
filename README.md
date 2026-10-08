@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">my name's Eduarda, i'm 28 and i'm from Brazil<br><br>- 💼 i've been working as a front-end developer for 3+ years<br>- ⚡ i've been practicing frameworks as Vuejs and Reactjs using Typescript<br>- 📱 i've also been working with Svelte<br>- ✒️ i'm an aspiring ui designer, i love creating new interfaces<br>- 🛹 in my free time, i like to skate<br>- 🧩 my pronouns are she/her</p>
+<p align="left">my name's Eduarda, i'm 28 and i'm from Brazil<br><br>- 💼 i've been working as a front-end developer for 4+ years<br>- ⚡ i've been working with frameworks as Vuejs and Angular using Typescript<br>- 📱 i've also been working with Svelte<br>- ✒️ i'm an aspiring ui designer, i love creating new interfaces<br>- 🧩 my pronouns are she/her</p>
 
 ###
 
@@ -70,14 +70,14 @@
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=edrda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edrda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
-<!--   <img src="https://github-profile-trophy.vercel.app?username=edrda&theme=gruvbox&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
+ <img src="https://github-profile-trophy.vercel.app?username=edrda&theme=gruvbox&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div> -->
 
 ###
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edrda/edrda/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edrda/edrda/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/edrda/edrda/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 ###
